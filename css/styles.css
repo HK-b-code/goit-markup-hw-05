@@ -183,6 +183,7 @@ nav ul a:visited {
 
 .main-button {
     display: block;
+    cursor: pointer;
     border: none;
     margin: auto;
     text-align: center;
