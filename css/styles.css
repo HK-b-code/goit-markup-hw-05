@@ -532,7 +532,7 @@ nav ul a:visited {
 
 .footer-form {
     display: flex;
-    gap 24px;
+    gap: 24px;
 }
 
 .footer-input {
@@ -766,9 +766,9 @@ nav ul a:visited {
 }
 
 .modal-check-privacy {
-    display: inline-flex;
     width: 16px;
     height: 16px;
+    display: inline-flex;
     border-radius: 2px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     margin-right: 8px;
